@@ -9,6 +9,15 @@
   "author": "Abhijit Fulsagar",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.1.1"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.5"
+  },
+  "devDependencies": {
+    "expect": "^23.4.0",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.3",
+    "supertest": "^3.1.0"
   }
 }
